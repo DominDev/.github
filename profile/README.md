@@ -10,11 +10,7 @@
 
 </div>
 
-## 👨‍💻 O Nas
-
-**DominDev** to marka osobista **Pawła Dominiaka** - frontend developera z pasją do optymalizacji wydajności i dostępności stron internetowych.
-
-### 🎯 Nasza Misja
+## 🎯 Misja
 
 > Tworzymy cyfrowe doświadczenia, które są **błyskawiczne**, **dostępne** i **piękne**. Każda milisekunda ma znaczenie, każdy pixel jest przemyślany, każdy użytkownik jest ważny.
 
