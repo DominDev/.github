@@ -1,14 +1,6 @@
-```markdown
 <div align="center">
 
-```
-██████╗  ██████╗ ███╗   ███╗██╗███╗   ██╗██████╗ ███████╗██╗   ██╗
-██╔══██╗██╔═══██╗████╗ ████║██║████╗  ██║██╔══██╗██╔════╝██║   ██║
-██║  ██║██║   ██║██╔████╔██║██║██╔██╗ ██║██║  ██║█████╗  ██║   ██║
-██║  ██║██║   ██║██║╚██╔╝██║██║██║╚██╗██║██║  ██║██╔══╝  ╚██╗ ██╔╝
-██████╔╝╚██████╔╝██║ ╚═╝ ██║██║██║ ╚████║██████╔╝███████╗ ╚████╔╝
-╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝  ╚═══╝
-```
+![DominDev Banner](https://raw.githubusercontent.com/DominDev/.github/main/profile/assets/banner.png)
 
 ### 🚀 Performance-Driven Web Development
 
@@ -74,20 +66,20 @@
 
 <div align="center">
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=DominDev&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Domin737&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DominDev&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominDev&layout=compact&theme=nord&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Domin737&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domin737&layout=compact&theme=nord&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DominDev&theme=nord&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Domin737&theme=nord&hide_border=true)
 
 </div>
 
@@ -174,7 +166,7 @@ const domindev = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DominDev&theme=nord&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Domin737&theme=nord&hide_border=true&area=true)
 
 </div>
 
@@ -217,11 +209,10 @@ Szukasz kogoś kto:
 ### ⚡ *Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DominDev.DominDev)
-![Profile Views](https://komarev.com/ghpvc/?username=DominDev&color=58A6FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Domin737&color=58A6FF&style=flat-square)
 
 **© 2025 DominDev** | Paweł Dominiak | Made with ❤️ and ☕
 
 ---
 
 </div>
-```
