@@ -109,31 +109,6 @@
 
 ---
 
-## 📈 Performance Obsession
-
-```javascript
-const domindev = {
-  philosophy: 'Every millisecond counts',
-  metrics: {
-    LCP: '< 1.2s',      // Largest Contentful Paint
-    FID: '< 100ms',     // First Input Delay
-    CLS: '< 0.1',       // Cumulative Layout Shift
-    TTI: '< 2.5s',      // Time to Interactive
-    lighthouse: '100/100/100/100'
-  },
-  approach: [
-    '1. Measure with real user data',
-    '2. Optimize critical rendering path',
-    '3. Lazy load everything non-critical',
-    '4. Self-host all external resources',
-    '5. Monitor & iterate continuously'
-  ],
-  goal: 'Blazing fast experiences on any device'
-};
-```
-
----
-
 ## 🎯 Areas of Expertise
 
 <div align="center">
